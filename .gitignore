@@ -1,0 +1,18 @@
+/images/
+backup/
+/cache/
+/bmz_cache/
+includes/local/
+includes/local-/
+includes/configure.php
+.project
+.buildpath
+.settings
+/.htaccess/
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
